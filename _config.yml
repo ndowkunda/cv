@@ -47,11 +47,11 @@ content:
 
       - layout: left 
         title: Rock Paper Scissors
-        link: github.com/ndowkunda/rock-paper-scissors/blob/main/OWNREADME.md
+        link: github.com/DFA-by-ndowkunda/rock-paper-scissors/blob/main/OWNREADME.md
         additional_links:
           - title: ndowkunda/rock-paper-scissors/blob/main/OWNREADME.md
             icon: fab fa-github
-            url: github.com/ndowkunda/rock-paper-scissors/blob/main/OWNREADME.md
+            url: github.com/DFA-by-ndowkunda/rock-paper-scissors/blob/main/OWNREADME.md
         quote: |
           Digital Futures Academy
         description: |
