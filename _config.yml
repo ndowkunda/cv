@@ -23,11 +23,10 @@ additional_links:
     url: https://ndowkunda.github.io/cv/resources/cv.pdf?raw=true
 
 # About Section
-# about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name's Marie and I'm a software engineer based in London. I have worked at a number of companies gaining collaboration, leadership, and software development skills.
+  Software engineer based in London. With experience in technology services and consultancies. My main focus currently is to contribute to the development of impactful products and collaborate with teams that are dedicated to creating meaningful and inclusive solutions."
   
-  I am most skilled in: <mark>React</mark> <mark>Node.js</mark> <mark>TypeScript</mark>
+  My areas of expertise are; <mark>Web Development</mark> <mark>Test-Driven Development</mark> <mark>Object-Oriented Programming</mark> <mark>Agile Methodologies</mark> <mark>UX Research</mark> <mark>DevOps</mark>
 
 content:
 # Projects Section
@@ -46,7 +45,7 @@ content:
         description: |
           Implemented an API endpoint that validates loan applications based on specified criteria and returns approval or rejection responses to users.
           
-          Demonstrated proficiency in building a RESTful API with SOLID principles and implemented software practices such as Test-Driven Development (TDD). Presented the project to a mentor at Codurance, gaining hands-on experience in creating real-world solutions.
+          Demonstrated proficiency in building a RESTful API with SOLID principles and implemented software practices such as Test-Driven Development (TDD). Presented the project to a mentor at Codurance, received positive feedback and insight into creating real-world solutions.
           
           Technologies used: <mark>Node.js</mark> <mark>Express.js</mark> <mark>Pug</mark> <mark>Jest</mark> <mark>Supertest</mark>
 
@@ -77,12 +76,13 @@ content:
         quote: |
            A global software consultancy that helps businesses build better sustainable tech capabilities to support growth.
         description: |
-          Led requirements gathering and planning phases for an internal project to create a team allocation tool, supporting successful progression of the project.
-          
-          Developed and deployed a key insights page on the company website using HubSpot CMS, significantly improving brand visibility and online presence.
-          
-          Completed an intensive Academy program that immersed me in a wide range of best software practices, including Test-Driven Development (TDD), Domain-Driven Design (DDD), and cloud engineering with AWS. Proactively applied the acquired knowledge to develop and present crucial frontend components as a key contributor to a final group project.
+          Led requirements gathering and planning phases for an internal project aimed at developing a team allocation tool, ensuring successful progression of the project.
 
+          Developed and deployed a key insights page on the company website using HubSpot CMS, significantly optimising brand visibility and online presence by 43%.
+
+          Completed an intensive Academy program immersed in a wide range of best software practices, including Test-Driven Development (TDD), Domain-Driven Design (DDD), and cloud engineering with AWS. Proactively applied the acquired knowledge to develop and present crucial frontend components as a key contributor to a final group project, leading to the successful delivery and recognition of our project within the organization.
+
+          Technologies used: <mark>React</mark> <mark>TypeScript</mark> <mark>AWS</mark> <mark>Java</mark> <mark>HubSpot</mark> <mark>Jest</mark> <mark>Git</mark>
       - layout: left
         title: Digital Futures
         link: https://digitalfutures.com/
@@ -91,12 +91,13 @@ content:
         quote: |
           A technology services and training company, established to provide talent and improve diversity within the tech sector.
         description: |
-          Developed and executed comprehensive test plans for multiple software releases, identifying and documenting over 50 critical issues, ensuring product stability and customer satisfaction.
+          Developed front-end UI components, including a form component, for an internal client-facing web app. Leveraged React TypeScript, GraphQL for API calls, Storybook for component documentation and Cypress for end-to-end testing. Resulted in improved user experience, streamlined employee data input and improved data integrity of employees. 
           
           Completed Oracle Programmer Java Certification (June 2021 - September 2021)
           
           Completed Modern Software Engineering Academy, where I gained hands-on experience building web apps using TDD and working in an agile environment with a focus on clean code (March 2021 - June 2021).
 
+          Technologies used: <mark>JavaScript</mark> <mark>Node.js</mark> <mark>React</mark> <mark>TypeScript</mark> <mark>GraphQL</mark> <mark>Jest</mark> <mark>PostgreSQL</mark> <mark>Cypress</mark> <mark>Storybook</mark> <mark>Java</mark> <mark>Git</mark>
       - layout: left
         title: Microsoft
         link: https://www.microsoft.com/en-gb
@@ -110,6 +111,8 @@ content:
           Facilitated efficient setup processes, prioritizing compliance with Microsoft 365 licenses.
           
           Leveraged Microsoft Dynamics CRM and Power BI apps to collect and store valuable client data for future analysis.
+
+          Technologies used: <mark>Windows</mark> <mark>Microsoft 365</mark> <mark>Power BI</mark>
 # Education Section
   - title: Education 
     layout: list 
@@ -117,25 +120,29 @@ content:
       - layout: left
         title: City, University London
         caption: 2013 - 2018
-        sub_title: MEng Electrical and Electronic Engineering
+        sub_title: MEng Electrical and Electronic Engineering, Grade achieved 2.1
         quote: |
           Key Modules: Embedded Systems, Object-Oriented Programming, Final year Group Project (Formula Student Electrical Lead)
         description: |
-          Collaborated on a team project focused on building and implementing a programmable Bluetooth robotic Arduino car in an embedded systems module. The car successfully navigated around an obstacle course within a specified time limit.
+          Collaborated on a team project focused on building and implementing a programmable Bluetooth robotic Arduino car in an embedded systems module. The car successfully navigated around an obstacle course within an improved time (under 3 minutes).
           
-          Took on the role of Electrical Lead in a multidisciplinary team for the Formula Student Car competition in my final year group project. Collaborated closely with mechanical engineering students within the powertrain group to develop a racing car. Led the electrical system design, implementation, and integration, ensuring connection between various components.
+          Took on the role of Electrical Lead in a multidisciplinary team for the Formula Student Car competition in my final year group project. Collaborated closely with mechanical engineering students within the powertrain group to develop a racing car. Led the electrical system design, implementation, and integration, ensuring connection between various components. The successful collaboration resulted in achieving a 5-year performance high in the university's formula student electrical and electronics performance.
 # Interests Section  
   - title: Interests
     layout: text
     content: |
       Alongside my interests in software engineering:
-      - I also have a passion for baking and experimenting with different recipes.
-      - I enjoy maintaining an active lifestyle through swimming and pilates.
-      - I love a good afrobeats concert.
+
+      - Have a passion for baking and experimenting with different recipes.
+
+      - Enjoy maintaining an active lifestyle through swimming and pilates.
+
+      - Love a good afrobeats concert, favourites include Rema and Burna Boy.
+
       - To expand my knowledge in tech, I stay up-to-date with the latest episodes of the "Darknet Diaries" podcast on YouTube.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
