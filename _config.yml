@@ -20,7 +20,7 @@ linkedin_username: mariendow
 additional_links:
   - title: Pdf Download
     icon: far fa-file-pdf
-    url: https://github.com/ndowkunda/cv/resources/cv.pdf
+    url: https://ndowkunda.github.io/cv/resources/cv.pdf?raw=true
 
 # About Section
 # about_profile_image: images/profile.jpg
