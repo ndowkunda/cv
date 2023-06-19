@@ -16,6 +16,11 @@ darkmode: true
 # Social links
 github_username: ndowkunda
 linkedin_username: mariendow
+# Additional icon links
+additional_links:
+  - title: Pdf Download
+    icon: far fa-file-pdf
+    url: https://github.com/ndowkunda/cv/resources/cv.pdf
 
 # About Section
 # about_profile_image: images/profile.jpg
